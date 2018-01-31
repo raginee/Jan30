@@ -1,0 +1,6 @@
+com.capgemini.beans
+com.capgemini.exceptions
+com.capgemini.repo
+com.capgemini.service
+com.capgemini.service.impl
+com.test
